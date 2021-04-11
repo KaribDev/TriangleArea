@@ -1,5 +1,5 @@
 # TriangleArea
-This module can calculate the area of any type of triangle.
+This Python module can calculate the area of any type of triangle.
 
 # Formulas
 ### |AB| = math.sqrt((x2 − x1) ** 2 + (y2 − y1) ** 2)
